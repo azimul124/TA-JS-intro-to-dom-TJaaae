@@ -1,0 +1,16 @@
+li img {
+  width: 200px;
+  border: 1px solid;
+}
+ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+header {
+  height: 50px;
+  background-color: tomato;
+  text-align: center;
+  font-size: 2rem;
+}
