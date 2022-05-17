@@ -9,3 +9,15 @@
     <script src="./script.js"></script>
   </body>
 </html>;
+<div class="box second">
+          <div class="text">
+            <p class="banner">
+              Move Your Mouse
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="./script.js"></script>
+  </body>
+</html>
